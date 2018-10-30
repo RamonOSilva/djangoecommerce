@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7b1487-79f3-4210-b851-82e188269bde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/checkout/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkout/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout/templates/checkout/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout/templates/checkout/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkout/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkout/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoecommerce/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoecommerce/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +20,7 @@
           <entry key="project.open.time.105" value="1" />
           <entry key="project.open.time.109" value="1" />
           <entry key="project.open.time.131" value="1" />
+          <entry key="project.open.time.137" value="1" />
           <entry key="project.open.time.147" value="2" />
           <entry key="project.open.time.161" value="1" />
           <entry key="project.open.time.166" value="1" />
@@ -41,7 +36,7 @@
           <entry key="project.open.time.80" value="1" />
           <entry key="project.open.time.83" value="1" />
           <entry key="project.open.time.84" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -80,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/djangoecommerce/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
+            <state relative-caret-position="924">
               <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
             </state>
           </provider>
@@ -89,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/checkout/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1019">
-              <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
+            <state relative-caret-position="3542">
+              <caret line="179" selection-start-line="179" selection-end-line="179" />
               <folding>
                 <element signature="e#16#47#0" expanded="true" />
               </folding>
@@ -101,7 +96,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/checkout/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2970">
+            <state>
               <folding>
                 <element signature="e#16#47#0" expanded="true" />
               </folding>
@@ -262,12 +257,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22585924" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22585924" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -451,15 +446,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/djangoecommerce/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
+        <state relative-caret-position="924">
           <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/checkout/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1019">
-          <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
+        <state relative-caret-position="3542">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
           <folding>
             <element signature="e#16#47#0" expanded="true" />
           </folding>
@@ -468,7 +463,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/checkout/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2970">
+        <state>
           <folding>
             <element signature="e#16#47#0" expanded="true" />
           </folding>
