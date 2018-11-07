@@ -1,0 +1,11 @@
+#idUm {
+  background-image: url(logo.jpg);
+  background-repeat: no-repeat;
+  width:144px;
+  height:60px;
+}
+
+#idDois {
+  background-image: url(logo.jpg);
+  background-repeat: no-repeat;
+}
